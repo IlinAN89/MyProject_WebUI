@@ -1,0 +1,18 @@
+15:45:18.282 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+15:45:18.305 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\AHTOH\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+15:45:26.629 [main]  INFO  o.e.homework5.TravelWebsiteTest - Запрос помощи у поддержки по введеным параметрам
+15:45:26.779 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+15:45:26.795 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\AHTOH\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+15:45:34.231 [main]  INFO  o.e.homework5.TravelWebsiteTest - Подбор тура по параметрам
+15:45:34.389 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+15:45:34.395 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\AHTOH\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+15:45:47.375 [main]  INFO  o.e.homework5.TravelWebsiteTest - Открытие страницы тура в новом окне
+15:45:47.532 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+15:45:47.537 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\AHTOH\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+15:45:57.646 [main]  INFO  o.e.homework5.TravelWebsiteTest - Открытие страницы прессы в новом окне
+15:45:57.780 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+15:45:57.786 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\AHTOH\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+15:46:05.361 [main]  INFO  o.e.homework5.TravelWebsiteTest - Фильтрация поиска туров по рейтингу
+15:46:05.496 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+15:46:05.501 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\AHTOH\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+15:46:20.968 [main]  INFO  o.e.homework5.TravelWebsiteTest - Подбор работы на ресурсе

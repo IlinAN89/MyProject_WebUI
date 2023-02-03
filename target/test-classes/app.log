@@ -1,0 +1,30 @@
+18:34:32.205 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+18:34:32.220 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\AHTOH\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+18:34:42.274 [main]  INFO  o.e.homework5.TravelWebsiteTest - Запрос помощи у поддержки по введеным параметрам
+18:34:42.422 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+18:34:42.429 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\AHTOH\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+18:35:00.836 [main]  INFO  o.e.homework5.TravelWebsiteTest - Открытие страницы тура в новом окне (вкладке)
+18:35:00.968 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+18:35:00.974 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\AHTOH\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+18:35:08.558 [main]  INFO  o.e.homework5.TravelWebsiteTest - Подбор тура по параметрам
+18:35:08.692 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+18:35:08.697 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\AHTOH\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+18:35:18.788 [main]  INFO  o.e.homework5.TravelWebsiteTest - Открытие страницы прессы в новом окне
+18:35:18.923 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+18:35:18.929 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\AHTOH\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+18:35:27.510 [main]  INFO  o.e.homework5.TravelWebsiteTest - Фильтрация поиска туров по рейтингу
+18:35:27.636 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+18:35:27.642 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\AHTOH\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+18:35:45.341 [main]  INFO  o.e.homework5.TravelWebsiteTest - Подбор работы на ресурсе
+18:39:09.494 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+18:39:09.521 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\AHTOH\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+18:39:21.559 [main]  INFO  o.e.homework5.TravelWebsiteTest - Запрос помощи у поддержки по введеным параметрам
+18:39:39.466 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+18:39:39.492 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\AHTOH\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+18:39:50.304 [main]  INFO  o.e.homework5.TravelWebsiteTest - Запрос помощи у поддержки по введеным параметрам
+18:40:16.835 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+18:40:16.859 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\AHTOH\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+18:40:29.112 [main]  INFO  o.e.homework5.TravelWebsiteTest - Запрос помощи у поддержки по введеным параметрам
+18:41:52.990 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+18:41:53.016 [main]  INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\AHTOH\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+18:42:05.010 [main]  INFO  o.e.homework5.TravelWebsiteTest - Запрос помощи у поддержки по введеным параметрам

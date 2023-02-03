@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78423caa-fe97-476f-b37b-eb87b1a8f2b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/app.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/appTriangleArea.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/appTriangleArea.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/homework5/TravelWebsiteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/homework5/TravelWebsiteTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,109 +35,110 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/AHTOH/OneDrive/Рабочий стол/Учеба/Автоматизация тестирования Web UI на Java/Практика/untitled",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/AHTOH/OneDrive/Рабочий стол/Учеба/Автоматизация тестирования Web UI на Java/Практика/untitled&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\AHTOH\OneDrive\Рабочий стол\Учеба\Автоматизация тестирования Web UI на Java\Практика\MyProject_WebUI\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TravelWebsiteTest">
-    <configuration name="TravelWebsiteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TravelWebsitePageTest">
+    <configuration name="TravelWebsitePageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyProject_WebUI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.homework5.*" />
+          <option name="PATTERN" value="org.example.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.homework5" />
-      <option name="MAIN_CLASS_NAME" value="org.example.homework5.TravelWebsiteTest" />
+      <option name="PACKAGE_NAME" value="org.example.homework6" />
+      <option name="MAIN_CLASS_NAME" value="org.example.homework6.TravelWebsitePageTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TravelWebsiteTest.jobSelection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TravelWebsitePageTest.jobSelection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyProject_WebUI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.homework5.*" />
+          <option name="PATTERN" value="org.example.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.homework5" />
-      <option name="MAIN_CLASS_NAME" value="org.example.homework5.TravelWebsiteTest" />
+      <option name="PACKAGE_NAME" value="org.example.homework6" />
+      <option name="MAIN_CLASS_NAME" value="org.example.homework6.TravelWebsitePageTest" />
       <option name="METHOD_NAME" value="jobSelection" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TravelWebsiteTest.openingTourPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TravelWebsitePageTest.openingTourTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyProject_WebUI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.homework5.*" />
+          <option name="PATTERN" value="org.example.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.homework5" />
-      <option name="MAIN_CLASS_NAME" value="org.example.homework5.TravelWebsiteTest" />
-      <option name="METHOD_NAME" value="openingTourPage" />
+      <option name="PACKAGE_NAME" value="org.example.homework6" />
+      <option name="MAIN_CLASS_NAME" value="org.example.homework6.TravelWebsitePageTest" />
+      <option name="METHOD_NAME" value="openingTourTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TravelWebsiteTest.support" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TravelWebsitePageTest.support" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyProject_WebUI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.homework5.*" />
+          <option name="PATTERN" value="org.example.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.homework5" />
-      <option name="MAIN_CLASS_NAME" value="org.example.homework5.TravelWebsiteTest" />
+      <option name="PACKAGE_NAME" value="org.example.homework6" />
+      <option name="MAIN_CLASS_NAME" value="org.example.homework6.TravelWebsitePageTest" />
       <option name="METHOD_NAME" value="support" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TravelWebsitePageTest.viewingPress" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyProject_WebUI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.homework4.*" />
+          <option name="PATTERN" value="org.example.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.homework4" />
-      <option name="MAIN_CLASS_NAME" value="org.example.homework4.TriangleTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="org.example.homework6" />
+      <option name="MAIN_CLASS_NAME" value="org.example.homework6.TravelWebsitePageTest" />
+      <option name="METHOD_NAME" value="viewingPress" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TravelWebsiteTest" />
-        <item itemvalue="JUnit.TravelWebsiteTest.jobSelection" />
-        <item itemvalue="JUnit.TravelWebsiteTest.support" />
-        <item itemvalue="JUnit.TravelWebsiteTest.openingTourPage" />
-        <item itemvalue="JUnit.TriangleTest" />
+        <item itemvalue="JUnit.TravelWebsitePageTest" />
+        <item itemvalue="JUnit.TravelWebsitePageTest.support" />
+        <item itemvalue="JUnit.TravelWebsitePageTest.openingTourTest" />
+        <item itemvalue="JUnit.TravelWebsitePageTest.viewingPress" />
+        <item itemvalue="JUnit.TravelWebsitePageTest.jobSelection" />
       </list>
     </recent_temporary>
   </component>

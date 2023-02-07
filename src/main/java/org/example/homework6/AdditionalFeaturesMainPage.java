@@ -74,9 +74,9 @@ public class AdditionalFeaturesMainPage extends AbstractPage {
         return this;
     }
 
-    public AdditionalFeaturesMainPage clickRequest() throws InterruptedException {
+    public AdditionalFeaturesMainPage clickRequest(String value) throws InterruptedException {
         request.click();
-        request.sendKeys("Акция Кешбэк 20% по карте МИР");
+        request.sendKeys(value);
         Thread.sleep(2000);
         request.sendKeys(Keys.ENTER);
         return this;
